@@ -14,7 +14,6 @@
 [Random Facts](#random-facts)
 [Bucket List](#bucket-list)
 
-
 ## Favorite Quote
 My favorite quote lately has been:
 > "People say nothing is impossible, but I do nothing every day." by Winnie the Pooh (A. A. Milne)
