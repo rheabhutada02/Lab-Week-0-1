@@ -42,7 +42,6 @@ An important lesson that I have learned in my as a programmer is that one should
 - I have an older brother - he's kinda cool I guess.
 
 ## Bucket List
-![pic of bucket list](bucket_list.jpg)
 - [x] graduate high school
 - [x] go to college
 - [ ] graduate college
