@@ -37,17 +37,17 @@ An important lesson that I have learned in my as a programmer is that one should
 - I have an older brother - he's kinda cool I guess.
 
 ## Bucket List
-[x] graduate high school
-[x] go to college
-[ ] graduate college
-[ ] have a fulfilling career
-[ ] own a dog
-[ ] live in a different country
-[ ] visit all seven continents
-[x] go ziplining
-[ ] go skydiving
-[x] go snorkeling
-[ ] go scuba diving
-[x] learn how to surf
-[ ] ride a motorcycle
-[x] learn how to knit
+- [x] graduate high school
+- [x] go to college
+- [ ] graduate college
+- [ ] have a fulfilling career
+- [ ] own a dog
+- [ ] live in a different country
+- [ ] visit all seven continents
+- [x] go ziplining
+- [ ] go skydiving
+- [x] go snorkeling
+- [ ] go scuba diving
+- [x] learn how to surf
+- [ ] ride a motorcycle
+- [x] learn how to knit
