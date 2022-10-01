@@ -7,12 +7,12 @@
 ![a third pic of me](me3.jpg)
 
 ## Table of Contents
-[Favorite Quote](#favorite-quote)
-[Life Lesson](#life-lesson)
-[Photo Dump](#photo-dump)
-[Top Five Favorite Movies](#top-five-favorite-movies)
-[Random Facts](#random-facts)
-[Bucket List](#bucket-list)
+- [Favorite Quote](#favorite-quote)
+- [Life Lesson](#life-lesson)
+- [Photo Dump](#photo-dump)
+- [Top Five Favorite Movies](#top-five-favorite-movies)
+- [Random Facts](#random-facts)
+- [Bucket List](#bucket-list)
 
 ## Favorite Quote
 My favorite quote lately has been:
