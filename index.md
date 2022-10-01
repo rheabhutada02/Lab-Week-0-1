@@ -1,8 +1,5 @@
 # Rhea's User Page
 ## Welcome to my page!!
-
-![flower pic](flower.jpg)
-
 ##### Hi, I'm **Rhea**! I am a third-year pursuing a *major in Computer Science* and *a minor in Cognitive Science*. I've been programming for the past few years and ~~still have no idea what I'm doing somtimes~~ have come to enjoy my experience so far. My favorite programming language is Python, ***DUHHH***, due to its emphasis on natural language. Besides programming, in my freetime I love to stay active by going on runs and hikes <sub>sometimes it's hard to find time though</sub>. I also love listening to music, watching movies, and hanging out with my friends.
 
 ![pic of me](me.jpg)
