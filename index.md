@@ -31,7 +31,7 @@ An important lesson that I have learned in my as a programmer is that one should
 [Some Recent Photos](pics.md)
 
 ## Top Five Favorite Movies
-![pic of theater](Lab-Week-0-1\pictures\theater.png)
+![pic of theater](theater.png)
 1. Memento (directed by Christopher Nolan)
 2. Porco Rosso (directed by Hayao Miyazaki)
 3. The Grand Budapest Hotel (directed by Wes Anderson)
