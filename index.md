@@ -22,7 +22,7 @@ My favorite quote lately has been:
 An important lesson that I have learned in my as a programmer is that one should never run ```rm -rf /``` in their command prompt. This will delete **_EVERYTHING_**. You can find more information on deadly commands that should never be written in the command prompt on this [***website***](https://www.howtogeek.com/125157/8-deadly-commands-you-should-never-run-on-linux/). 
 
 ## Photo Dump
-[Some Recent Photos](pics.md)
+*** PLEASE CLICK ON THIS LINK TO VIEW *** [Some Recent Photos](pics.md)
 
 ## Top Five Favorite Movies
 ![pic of theater](theater.png)
