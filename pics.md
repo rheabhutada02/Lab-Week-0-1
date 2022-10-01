@@ -12,7 +12,7 @@
 
 
 ![Nature Pic](nature.jpg)
-##### This is a picture of the a random waterfall encountered while on a drive in Portland, Oregon.
+##### This is a picture of the a road and nature surrounding the city of Vancouver in Canada.
 
 
 
