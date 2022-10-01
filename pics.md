@@ -3,6 +3,7 @@
 
 ![Sunset Pic](sunset.jpg)
 ##### This is a picture of the sunset as seen on State Street in Santa Barbara.
+
 ![City Pic](city.jpg)
 ##### This is photo of the New York City skyline on the last night of August.
 
